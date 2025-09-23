@@ -2,6 +2,7 @@
 title: Navigation
 layout: default
 nav_order: 2
+has_children: true
 ---
 Navigation is the process of accurately obtaining one's geographical position, locating other positions, and planning and undertaking routes.
 
