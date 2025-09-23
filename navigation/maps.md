@@ -1,7 +1,7 @@
 ---
 title: Maps
 layout: default
-parent: navigation.md
+parent: navigation
 nav_order: 1
 ---
 ## Maps
