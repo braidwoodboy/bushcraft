@@ -11,6 +11,7 @@ Fire is a chemical reaction between the oxygen in the air and a substance/fuel (
 - Heat
 - Oxygen
 - Fuel
+
 If one of these items is removed, the reaction will stop. To successfully start a fire, all three components are needed. This is known as the fire triangle. More advanced bushcrafters might be familair with a fire tetrahedon or pyramid, which includes the continued chemcal reaction as another component.
 
 {: .note }
