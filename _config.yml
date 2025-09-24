@@ -2,7 +2,10 @@ title: BB Bushcraft
 description: A collection of bushcraft methods, tipes and tricks!
 theme: just-the-docs
 
-url: https://braidwoodboy.github.io/testing
+url: https://braidwoodboy.github.io/bushcraft/
+aux_links:
+  "Disclaimer":
+    - "/dev/disclaimer.md"
 
 callouts:
   warning:
