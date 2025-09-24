@@ -1,6 +1,7 @@
 ---
 title: Changelog
-layout: simple
+layout: default
+nav_exclude: true
 ---
 {: .note }
 This site is heavily under construction.
