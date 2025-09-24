@@ -1,6 +1,7 @@
 ---
 title: Index Page
 layout: default
+nav_exclude: true
 ---
 This page will link pages to specific pages that might otherwise be difficult to find.
 {: .note }
