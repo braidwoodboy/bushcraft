@@ -1,7 +1,7 @@
 ---
 title: Pioneering
 layout: default
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 _Pioneering, in most dictionaries, is the process of developing or being the first individual to use a specific method to complete a task. However, within the context of the scouting movement, it involves the use of rope and wooden spars to make structures using knots and lashings. _
