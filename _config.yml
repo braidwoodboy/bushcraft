@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://braidwoodboy.github.io/bushcraft/
 aux_links:
   "Disclaimer":
-    - "/dev/disclaimer.md"
+    - "https://braidwoodboy.github.io/bushcraft/dev/disclaimer.html"
 
 callouts:
   warning:
